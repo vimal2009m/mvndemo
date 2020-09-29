@@ -11,6 +11,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Trying to trigger a new build using GitHub Actions!!" );
     }
     
     public String getGreeting()
